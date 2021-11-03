@@ -1,24 +1,48 @@
-# README
+# バイクはいいぞ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+コロナ渦で密になる電車以外での通勤・通学方法に世間が注目を集めてます。当サイトでは、通勤・通学に便利なバイクにフォーカスを当て、
+様々なレビューを参考にしながら、自分に合う最高の一台を選んでいただきたいと考えています。
+このレビューサイトを通じてバイク業界を盛り上げ、今後さらなるバイク業界の発展に貢献していきたいと考えております。
 
-Things you may want to cover:
+### サイトテーマ
+最高の相棒を見つけ出そう
 
-* Ruby version
+### テーマを選んだ理由
+制作者自身はバイク好きです。
+コロナ渦において、密になる移動手段の電車以外での移動方法以外が、世間的に注目されていました。
+その中でもバイクは、単身での移動手段として便利であり、燃費や駐車スペースなどでも車に対してアドバンテージがあると考えております。
+世間的には「危険」なイメージを持たれてしまっているバイクのイメージを払拭しつつ、実際にバイクを持っているユーザーの意見を元に、
+新たなバイクユーザーの後押しをし、バイクユーザーを増やしていきたいと思っております。
+上記のような考えから当サイトでは、バイクを主に置いて作成していきたいと考えております。
 
-* System dependencies
 
-* Configuration
+### ターゲットユーザ
+バイク所有のユーザー
+新たにバイクを購入検討中のユーザー
 
-* Database creation
+### 主な利用シーン
+バイク情報の収集での利用
+バイク購入前の検討段階での利用
 
-* Database initialization
+## 設計書
+<...>
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1jeV8ssDL9p78Lvgx9hzIHX8R6SIpXRw7TePA3XbBvi4/edit?usp=sharing
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
+## 使用素材
+- ヤマハホームページ リンク   ：https://global.yamaha-motor.com/jp/copyright/#pl001
+- ホンダホームページ リンク   ：https://www.honda.co.jp/linkrequest/attention/index.html?_ga=2.50347689.1698937910.1635746809-241312373.1635574129
+- スズキホームページ リンク   ：https://www.suzuki.co.jp/corporate/faq/others/
+- カワサキホームページ リンク ：https://www.kawasaki-motors.com/link_policy/
 
-* ...
+- バイク画像はリンク先にて確認していただく形にしております。
+- フリー画像については今のところ未定。
